@@ -1,0 +1,112 @@
+// Quasar SCSS (& Sass) Variables
+// --------------------------------------------------
+// To customize the look and feel of this app, you can override
+// the Sass/SCSS variables found in Quasar's source Sass/SCSS files.
+
+// Check documentation for full list of Quasar variables
+
+// Your own variables (that are declared here) and Quasar's own
+// ones will be available out of the box in your .vue/.scss/.sass files
+
+// It's highly recommended to change the default colors
+// to match your app's branding.
+// Tip: Use the "Theme Builder" on Quasar's documentation website.
+
+$distributionPrimary: #3aad2c;
+$distributionPrimaryAccent: #edf7eb;
+
+$distributionSecondary: #00823f;
+$distributionSecondaryAccent: #eaf3ec;
+
+$distributionTertiary: #016a5b;
+$distributionTertiaryAccent: #e8f0ef;
+
+$brandPrimary: #43b049;
+$brandYellowGreenish: #f6e948;
+$brandYellowGreen: #c2d500;
+$brandGreenYellow: #80bc00;
+$brandGreenYellowish: #43b049;
+$brandGreenBlueish: #1a8241;
+$brandGreenBlue: #006a5b;
+$brandBlueGreen: #003b4a;
+$brandBlueGreenish: #06262d;
+$brandBlueOne: #0075a9;
+$brandBlueTwo: #00a19b;
+$brandBlueThree: #003764;
+$brandBlueFour: #12284c;
+$brandAccentAlert: #db6015;
+$brandAccentInfo: #00a5b5;
+$brandAccentWarning: #f5a800;
+$brandGrayOne: #d9d8d6;
+$brandGrayTwo: #9eacaa;
+$brandGrayThree: #6e7c7c;
+$brandGrayFour: #373a36;
+
+$brandLightGreenBackground: #eaf3ec;
+$brandLightBlueBackground: #e5f2f2;
+$brandDarkTealBackground: #04272d;
+$brandDarkBlueBackground: #10284c;
+
+// or green
+$brandBlackFont: #000000;
+$brandGreenFont: #3dae2b;
+$brandFont: Museo Sans Rounded;
+$h1Color: $brandBlackFont; // may also use $brandGreenFont
+$h1FontWeight: normal;
+$h1LineHeight: 58px;
+$h1Font: Museo Sans Rounded 300;
+
+$h2Font: Museo Sans Rounded 300;
+$h2LineHeight: 46px;
+$h2FontWeight: normal;
+$h2FontColor: #6d7b7c;
+$h2FontWeight: normal;
+
+$h1FontSize: 48px;
+$h2FontSize: 36px;
+$h3FontSize: 30px;
+$h4FontSize: 24px;
+$h5FontSize: 24px;
+$h6FontSize: 24px;
+$textFontSize: 16px;
+
+$h3FontFamily: Museo Sans Rounded 700;
+$h4FontFamily: Museo Sans Rounded 300;
+$h5FontFamily: Museo Sans Rounded 700;
+$h6FontFamily: Museo Sans Rounded 700;
+$textFontFamily: Museo Sans Rounded 300;
+
+$h3LineHeight: 40px;
+$h4LineHeight: 32px;
+$h5LineHeight: 32px;
+$h6LineHeight: 32px;
+$textLineHeight: 24px;
+
+$h3FontWeight: normal;
+$h4FontWeight: normal;
+$h5FontWeight: normal;
+$h6FontWeight: normal;
+$textFontWeight: normal;
+
+$h3FontStyle: normal;
+$h4FontStyle: normal;
+$h5FontStyle: normal;
+$h6FontStyle: normal;
+$textFontStyle: normal;
+
+$h3Color: #353a36;
+$h4Color: #000000;
+$h5Color: #04272d;
+$h6Color: #000000;
+$textColor: #50504f;
+
+$dark: $brandDarkBlueBackground;
+
+$primary: $distributionPrimary;
+$secondary: $distributionSecondary;
+
+$accent: $distributionTertiary;
+$positive: #21ba45;
+$negative: #db6015;
+$info: #00a5b5;
+$warning: #f5a800;
